@@ -1,0 +1,296 @@
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\CoverletSourceRootsMapping
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\testhost.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.deps.json
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.runtimeconfig.json
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.exe
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\testhost.exe
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.deps.json
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.runtimeconfig.json
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.pdb
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\FluentAssertions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.Utilities.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\NuGet.Frameworks.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.abstractions.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.assert.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.core.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.pdb
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.AssemblyReference.cache
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.AssemblyInfoInputs.cache
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.AssemblyInfo.cs
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.CoreCompileInputs.cache
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.CopyComplete
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\refint\Test_GUI_Project.dll
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.pdb
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.genruntimeconfig.cache
+G:\Work\Private assignments\GUI Project\GUI_Project_4162_4271-main\Test_GUI_Project\obj\Debug\net7.0-windows\ref\Test_GUI_Project.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\CoverletSourceRootsMapping
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\testhost.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\testhost.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Test_GUI_Project.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\FluentAssertions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.TestPlatform.Utilities.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\NuGet.Frameworks.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.abstractions.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.assert.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.core.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\bin\Debug\net7.0-windows\GUI_Project_4162_4271.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.AssemblyReference.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.AssemblyInfoInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.AssemblyInfo.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.CoreCompileInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.csproj.CopyComplete
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\refint\Test_GUI_Project.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\Test_GUI_Project.genruntimeconfig.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\point_of_sale\Test_GUI_Project\obj\Debug\net7.0-windows\ref\Test_GUI_Project.dll

@@ -1,0 +1,71 @@
+﻿<Window x:Class="GUI_Project_4162_4271.Views.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_Project_4162_4271.ViewModel"
+        mc:Ignorable="d"
+        Title="UserWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <local:NormalUserViewModel/>
+    </Window.DataContext>
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="  #FF1D7173" Offset="0.0"  />
+            <GradientStop Color="#594F4F " Offset="2.5" />
+            <GradientStop Color="#2A363B" Offset="1.0" />
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border CornerRadius="30 0 0 30" Background="#FFD7D7D7">
+        </Border>
+
+        <StackPanel Background="{StaticResource StackPanelBackgroundBrush}">
+            <StackPanel Orientation="Horizontal" Margin="5" Height="38">
+                <TextBlock Text="Item Name: " FontSize="16" Padding="10" Margin="5" Foreground="WhiteSmoke" FontWeight="Bold" Width="122" FontStyle="Italic" VerticalAlignment="Center"/>
+                <TextBox FontSize="14" Padding="5" Width="200" Text="{Binding ItemName}" 
+                         Background="Transparent" Foreground="WhiteSmoke" BorderBrush="#545D6A" Height="30" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="39" Width="382">
+                <TextBlock FontSize="16" Padding="10" Foreground="WhiteSmoke" FontWeight="Bold" Width="127" Height="30" FontStyle="Italic" Margin="5,5,5,5" VerticalAlignment="Center">
+                    <Run Text="Unit Price:"/><LineBreak/><Run/>
+                </TextBlock>
+                <TextBox FontSize="14" Padding="5" Width="200" Text="{Binding UnitPrice}" 
+                         Background="Transparent" Foreground="WhiteSmoke" BorderBrush="#545D6A" Height="30"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5" Height="40">
+                <TextBlock  FontSize="16" Padding="10" Margin="5" Foreground="WhiteSmoke" FontWeight="Bold" VerticalAlignment="Top" FontStyle="Italic" Height="30" Width="124">
+                    <Run Text="Units :"/><LineBreak/><Run/>
+                </TextBlock>
+                <TextBox FontSize="14" Padding="5" Width="200" Text="{Binding Unit, StringFormat={}{0:#;;''}}" 
+                         Background="Transparent" Foreground="WhiteSmoke" BorderBrush="#545D6A" Height="30"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5" Height="37">
+                <TextBlock Text="Total Price: " FontSize="16" Padding="10" Margin="5" Foreground="WhiteSmoke" FontWeight="Bold" FontStyle="Italic" Width="124"/>
+                <TextBox FontSize="14" Padding="5" Width="200" Text="{Binding TotalPrice, StringFormat={}{0:#;;''}}" 
+                         Background="Transparent" Foreground="WhiteSmoke" BorderBrush="#545D6A" Height="30" TextChanged="TextBox_TextChanged" IsReadOnly="True"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5" Height="38"/>
+            <Button Width="134" Height="35" FontSize="16" Padding="5" 
+                    Content="Add" Command="{Binding InsertItemCommand}" Background="#007acc" 
+                    Foreground="White" Click="Button_Click" Style="{StaticResource CustomButtonStyle}" />
+            <Button Width="135" Height="35" FontSize="16" Padding="5" 
+                    Content="Delete" Command="{Binding DeleteItemCommand}" Margin="10" Click="Button_Click_1" Style="{StaticResource CustomButtonStyle}"/>
+            <Button Width="134" Height="35" FontSize="16" Padding="5" 
+                    Content="Update" Command="{Binding EditItemCommand}" Background="#007acc" 
+                    Foreground="White" Click="Button_Click_2" RenderTransformOrigin="0.507,-0.085" Style="{StaticResource CustomButtonStyle}" />
+        </StackPanel>
+
+        <DataGrid Grid.Column="1" ItemsSource="{Binding Items}" BorderThickness="1" SelectedItem="{Binding SelectedItem}" IsReadOnly="True"/>
+
+    </Grid>
+</Window>
